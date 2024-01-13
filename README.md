@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...kali linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...amu91188@gmail.com
-- ⚡ Fun fact: ...lerning mostly from YouTube 
+- ⚡ Fun fact: ...learning mostly from YouTube 
 
 <!---
 OldMonk911/OldMonk911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
